@@ -141,6 +141,62 @@ margin-bottom: 0;
 }
 
 
+/*About Us */
+.aboutus{
+text-align: center;
+}
+
+.aboutus h1{
+  color: #fff;
+  font-size: 46px;
+}
+
+.aboutus p{
+  color: #fff;
+  font-size: 12px;
+  margin-bottom: 30px;
+  margin-top: 0;
+}
+
+.form{
+
+  text-align: center;
+  
+}
+
+input{
+
+  width: 15%;
+  margin: 10px 0;
+  background: rgba (0,0,0,0);
+  border: none;
+  border-bottom: 1 px solid white;
+}
+
+#msg{
+
+  margin-top: 30px;
+  width: 25%;
+}
+
+::-webkit-input-placeholder{
+color:#black;
+font-size: 12px;
+letter-spacing: 2px;
+
+}
+
+button{
+  padding: 20px 25px;
+  font-size: 20px;
+  border:none;
+  border-radius: 4px;
+  margin-top:20px;
+  color: #fff;
+  background:#0078ff;
+  cursor: pointer;
+}
+
 
 
 
